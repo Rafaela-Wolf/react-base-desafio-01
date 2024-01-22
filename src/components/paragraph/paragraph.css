@@ -1,0 +1,11 @@
+.paragraph {
+    text-transform: uppercase;
+    text-align: center;
+    color: red;
+    font-weight: bold;
+    background-color: lightseagreen;
+    width: 400px;
+    height: 200px;
+    padding: 20px;
+    margin: 50px;
+}
