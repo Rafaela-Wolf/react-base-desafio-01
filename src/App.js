@@ -1,9 +1,7 @@
-import Paragraph from './components/paragraph/paragraph';
+import StyleText from './components/StyledText/index';
 
 function App() {
-  return (
-    <Paragraph />
-  );
+  return <StyleText />;
 }
 
 export default App;
